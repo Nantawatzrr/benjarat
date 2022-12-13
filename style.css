@@ -1,0 +1,25 @@
+
+p{
+    color: antiquewhite;
+    text-align: center;
+}
+
+body{
+    background-color: #EEDA98;
+}
+iframe{
+    margin-top: 20px;
+}
+.header{
+    margin-top: 15px;
+    color: white;
+    
+}
+img{
+    border: 1px solid;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: #8a6539;
+
+}
